@@ -1,0 +1,22 @@
+.full{
+    background-color: #BECAE5;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.details{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 100px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.name{
+    padding-left: 100px;
+}
+.pic{
+    margin-top: -90px;
+}
+#text{
+    font-size: larger;
+}
+
+
